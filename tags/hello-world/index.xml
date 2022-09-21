@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hello-world on The Techno Hack</title>
-    <link>https://thetechnohack.cf/tags/hello-world/</link>
+    <link>https://winuxdroid.com/tags/hello-world/</link>
     <description>Recent content in hello-world on The Techno Hack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thetechnohack.cf/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://winuxdroid.com/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The History of &#39;Hello, world!&#39;</title>
-      <link>https://thetechnohack.cf/post/hello-world/</link>
+      <link>https://winuxdroid.com/post/hello-world/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/hello-world/</guid>
+      <guid>https://winuxdroid.com/post/hello-world/</guid>
       <description>
         
           &lt;h2 id=&#34;hello-world&#34;&gt;Hello, world!&lt;/h2&gt;

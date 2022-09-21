@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hacking on The Techno Hack</title>
-    <link>https://thetechnohack.cf/tags/hacking/</link>
+    <link>https://winuxdroid.com/tags/hacking/</link>
     <description>Recent content in hacking on The Techno Hack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thetechnohack.cf/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://winuxdroid.com/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trojan Horse – What is it ?</title>
-      <link>https://thetechnohack.cf/post/what-are-trojans/</link>
+      <link>https://winuxdroid.com/post/what-are-trojans/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/what-are-trojans/</guid>
+      <guid>https://winuxdroid.com/post/what-are-trojans/</guid>
       <description>
         
           &lt;h2 id=&#34;what-is-a-trojan-&#34;&gt;What is a Trojan ?&lt;/h2&gt;
@@ -125,10 +125,10 @@ Cybercriminals could redirect traffic on the Wi-Fi-connected devices and use it 
     
     <item>
       <title>Hacking, Social Engineering and Types of Hackers</title>
-      <link>https://thetechnohack.cf/post/hacking-social-engineer-and-types-of-hackers/</link>
+      <link>https://winuxdroid.com/post/hacking-social-engineer-and-types-of-hackers/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/hacking-social-engineer-and-types-of-hackers/</guid>
+      <guid>https://winuxdroid.com/post/hacking-social-engineer-and-types-of-hackers/</guid>
       <description>
         
           &lt;h2 id=&#34;what-is-hacking-&#34;&gt;What is Hacking ?&lt;/h2&gt;
@@ -157,10 +157,10 @@ img[src$=&#34;#image&#34;] {
     
     <item>
       <title>Brutespray – Port Scanning and Automated Brute Forcing Tool</title>
-      <link>https://thetechnohack.cf/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</link>
+      <link>https://winuxdroid.com/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</guid>
+      <guid>https://winuxdroid.com/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</guid>
       <description>
         
           &lt;h1 id=&#34;brutespray&#34;&gt;BruteSpray&lt;/h1&gt;

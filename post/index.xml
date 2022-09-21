@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Techno Hack</title>
-    <link>https://thetechnohack.cf/post/</link>
+    <link>https://winuxdroid.com/post/</link>
     <description>Recent content in Posts on The Techno Hack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thetechnohack.cf/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://winuxdroid.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Import *.sql Files in MySQL &#43; Download Sample Tables &amp; Database</title>
-      <link>https://thetechnohack.cf/post/how-to-import-.sql-in-mysql-sample-database-download/</link>
+      <link>https://winuxdroid.com/post/how-to-import-.sql-in-mysql-sample-database-download/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/how-to-import-.sql-in-mysql-sample-database-download/</guid>
+      <guid>https://winuxdroid.com/post/how-to-import-.sql-in-mysql-sample-database-download/</guid>
       <description>
         
           &lt;p&gt;In this tutorial we will see how to import .sql (tables or databases) files in MySQL-CLI.&lt;/p&gt;
@@ -245,14 +245,14 @@ Comment your suggestions and queries. &lt;strong&gt;We always appreciate your fe
     
     <item>
       <title>How to Install MySQL Server and Client on Android</title>
-      <link>https://thetechnohack.cf/post/how-to-install-mysql-server-and-client-on-android/</link>
+      <link>https://winuxdroid.com/post/how-to-install-mysql-server-and-client-on-android/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/how-to-install-mysql-server-and-client-on-android/</guid>
+      <guid>https://winuxdroid.com/post/how-to-install-mysql-server-and-client-on-android/</guid>
       <description>
         
           &lt;p&gt;If you are still stucked in installation of MySQL (MariaDB) on your android — don&#39;t worry we have a quick and best solution for that.&lt;/p&gt;
-&lt;p&gt;We have already done a tutorial on this topic : &lt;a href=&#34;https://thetechnohack.cf/post/how-to-install-mysql-on-android-with-termux/&#34;&gt;How to Install MySQL (MariaDB) on Android With Termux&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;We have already done a tutorial on this topic : &lt;a href=&#34;https://winuxdroid.com/post/how-to-install-mysql-on-android-with-termux/&#34;&gt;How to Install MySQL (MariaDB) on Android With Termux&lt;/a&gt; &lt;br&gt;
 But this tutorial on how to install mysql is going to be far more easy and straightforward than our old tutorial.&lt;/p&gt;
 &lt;p&gt;We made a simple tool (bash scripting) to solve this problem, which automates all the processes and you only need to use some easy instructions commands.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -335,10 +335,10 @@ img[src$=&#34;#image&#34;] {
     
     <item>
       <title>Trojan Horse – What is it ?</title>
-      <link>https://thetechnohack.cf/post/what-are-trojans/</link>
+      <link>https://winuxdroid.com/post/what-are-trojans/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/what-are-trojans/</guid>
+      <guid>https://winuxdroid.com/post/what-are-trojans/</guid>
       <description>
         
           &lt;h2 id=&#34;what-is-a-trojan-&#34;&gt;What is a Trojan ?&lt;/h2&gt;
@@ -452,10 +452,10 @@ Cybercriminals could redirect traffic on the Wi-Fi-connected devices and use it 
     
     <item>
       <title>Hacking, Social Engineering and Types of Hackers</title>
-      <link>https://thetechnohack.cf/post/hacking-social-engineer-and-types-of-hackers/</link>
+      <link>https://winuxdroid.com/post/hacking-social-engineer-and-types-of-hackers/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/hacking-social-engineer-and-types-of-hackers/</guid>
+      <guid>https://winuxdroid.com/post/hacking-social-engineer-and-types-of-hackers/</guid>
       <description>
         
           &lt;h2 id=&#34;what-is-hacking-&#34;&gt;What is Hacking ?&lt;/h2&gt;
@@ -484,10 +484,10 @@ img[src$=&#34;#image&#34;] {
     
     <item>
       <title>The Best Book to Learn Python — Free Download</title>
-      <link>https://thetechnohack.cf/post/the-best-book-to-learn-python-from-basics/</link>
+      <link>https://winuxdroid.com/post/the-best-book-to-learn-python-from-basics/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/the-best-book-to-learn-python-from-basics/</guid>
+      <guid>https://winuxdroid.com/post/the-best-book-to-learn-python-from-basics/</guid>
       <description>
         
           &lt;h2 id=&#34;python-crash-course-2nd-edition&#34;&gt;Python Crash Course, 2nd Edition&lt;/h2&gt;
@@ -531,10 +531,10 @@ Create and customize web apps and deploy them safely online&lt;/p&gt;
     
     <item>
       <title>Brutespray – Port Scanning and Automated Brute Forcing Tool</title>
-      <link>https://thetechnohack.cf/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</link>
+      <link>https://winuxdroid.com/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</guid>
+      <guid>https://winuxdroid.com/post/brutespray-port-scanning-and-automated-bruteforcing-tool/</guid>
       <description>
         
           &lt;h1 id=&#34;brutespray&#34;&gt;BruteSpray&lt;/h1&gt;
@@ -638,10 +638,10 @@ If you are learning python take a deep dive and explore how this tool actually w
     
     <item>
       <title>How to Install MySQL (MariaDB) on Android With Termux</title>
-      <link>https://thetechnohack.cf/post/how-to-install-mysql-on-android-with-termux/</link>
+      <link>https://winuxdroid.com/post/how-to-install-mysql-on-android-with-termux/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/how-to-install-mysql-on-android-with-termux/</guid>
+      <guid>https://winuxdroid.com/post/how-to-install-mysql-on-android-with-termux/</guid>
       <description>
         
           &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -763,10 +763,10 @@ img[src$=&#34;#image&#34;] {
     
     <item>
       <title>What is Google Cloud Shell?</title>
-      <link>https://thetechnohack.cf/post/what-is-google-cloud-shell/</link>
+      <link>https://winuxdroid.com/post/what-is-google-cloud-shell/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/what-is-google-cloud-shell/</guid>
+      <guid>https://winuxdroid.com/post/what-is-google-cloud-shell/</guid>
       <description>
         
           &lt;p&gt;If you always hesitate to install different software packages on your local system — this blog is for you.&lt;/p&gt;
@@ -853,10 +853,10 @@ img[src$=&#34;#image&#34;] {
     
     <item>
       <title>The History of &#39;Hello, world!&#39;</title>
-      <link>https://thetechnohack.cf/post/hello-world/</link>
+      <link>https://winuxdroid.com/post/hello-world/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://thetechnohack.cf/post/hello-world/</guid>
+      <guid>https://winuxdroid.com/post/hello-world/</guid>
       <description>
         
           &lt;h2 id=&#34;hello-world&#34;&gt;Hello, world!&lt;/h2&gt;
