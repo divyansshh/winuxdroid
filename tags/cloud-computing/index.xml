@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cloud computing on The Techno Hack</title>
-    <link>https://winuxdroid.com/tags/cloud-computing/</link>
+    <link>/tags/cloud-computing/</link>
     <description>Recent content in cloud computing on The Techno Hack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://winuxdroid.com/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Google Cloud Shell?</title>
-      <link>https://winuxdroid.com/post/what-is-google-cloud-shell/</link>
+      <link>/post/what-is-google-cloud-shell/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://winuxdroid.com/post/what-is-google-cloud-shell/</guid>
+      <guid>/post/what-is-google-cloud-shell/</guid>
       <description>
         
           &lt;p&gt;If you always hesitate to install different software packages on your local system — this blog is for you.&lt;/p&gt;

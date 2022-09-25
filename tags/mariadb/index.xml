@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mariadb on The Techno Hack</title>
-    <link>https://winuxdroid.com/tags/mariadb/</link>
+    <link>/tags/mariadb/</link>
     <description>Recent content in mariadb on The Techno Hack</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://winuxdroid.com/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mariadb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Import *.sql Files in MySQL &#43; Download Sample Tables &amp; Database</title>
-      <link>https://winuxdroid.com/post/how-to-import-.sql-in-mysql-sample-database-download/</link>
+      <link>/post/how-to-import-.sql-in-mysql-sample-database-download/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://winuxdroid.com/post/how-to-import-.sql-in-mysql-sample-database-download/</guid>
+      <guid>/post/how-to-import-.sql-in-mysql-sample-database-download/</guid>
       <description>
         
           &lt;p&gt;In this tutorial we will see how to import .sql (tables or databases) files in MySQL-CLI.&lt;/p&gt;
@@ -245,14 +245,14 @@ Comment your suggestions and queries. &lt;strong&gt;We always appreciate your fe
     
     <item>
       <title>How to Install MySQL Server and Client on Android</title>
-      <link>https://winuxdroid.com/post/how-to-install-mysql-server-and-client-on-android/</link>
+      <link>/post/how-to-install-mysql-server-and-client-on-android/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://winuxdroid.com/post/how-to-install-mysql-server-and-client-on-android/</guid>
+      <guid>/post/how-to-install-mysql-server-and-client-on-android/</guid>
       <description>
         
           &lt;p&gt;If you are still stucked in installation of MySQL (MariaDB) on your android — don&#39;t worry we have a quick and best solution for that.&lt;/p&gt;
-&lt;p&gt;We have already done a tutorial on this topic : &lt;a href=&#34;https://winuxdroid.com/post/how-to-install-mysql-on-android-with-termux/&#34;&gt;How to Install MySQL (MariaDB) on Android With Termux&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;We have already done a tutorial on this topic : &lt;a href=&#34;/post/how-to-install-mysql-on-android-with-termux/&#34;&gt;How to Install MySQL (MariaDB) on Android With Termux&lt;/a&gt; &lt;br&gt;
 But this tutorial on how to install mysql is going to be far more easy and straightforward than our old tutorial.&lt;/p&gt;
 &lt;p&gt;We made a simple tool (bash scripting) to solve this problem, which automates all the processes and you only need to use some easy instructions commands.&lt;/p&gt;
 &lt;blockquote&gt;
