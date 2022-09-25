@@ -1,5 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://winuxdroid.com/index.xml
-Sitemap: https://winuxdroid.com/sitemap.xml
